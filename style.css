@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .d-bloc .a-btn:hover,
@@ -584,13 +584,14 @@ a[data-lightbox]:hover img {
 }
 
 .lightbox-caption {
-    padding: 20px;
+    padding: 10px;
     color: #FFF;
     background: rgba(0, 0, 0, .5);
     position: absolute;
     left: 15px;
     right: 15px;
     bottom: 5px;
+    font-size: 12px;
 }
 
 .close-lightbox {
@@ -848,11 +849,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {

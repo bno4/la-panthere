@@ -1093,6 +1093,12 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    .social {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
 }
 
 @media (max-width: 400px) {

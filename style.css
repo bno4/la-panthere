@@ -444,7 +444,7 @@ nav .caret {
 
 .mg-md {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .mg-lg {
@@ -771,9 +771,8 @@ h4 {
 }
 
 .portfolio-thumb {
-    margin-bottom: 24px;
+    margin: 0 auto 24px;
     width: 100%;
-    height: auto;
 }
 
 .portfolio-row {
